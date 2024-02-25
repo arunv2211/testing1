@@ -1,0 +1,44 @@
+/* table th, td{
+    border: 1px solid;
+    color: #000075;
+    
+}
+
+    
+
+table{
+    text-align: center;
+    border-collapse: collapse;
+    width: 100%;
+
+}
+
+ table th, td {
+    padding-left: 55px;
+    text-align: center;
+  }
+
+  h2{
+    text-align: center;
+    color: #000075;
+  }
+
+  /* .button1 {background-color: #04AA6D;} 
+.button2 {background-color: #008CBA;} 
+.button3 {background-color: #f44336;} */ 
+
+.btn{
+  margin: 3px;;
+}
+.divbtn{
+  float: left;
+}
+h4{
+  margin-bottom: 20px;
+ 
+  margin-top: 40px;
+}
+
+.container-two{
+  margin-top: 40px;
+}
